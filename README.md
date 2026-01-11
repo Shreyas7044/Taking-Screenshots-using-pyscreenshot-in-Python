@@ -22,10 +22,10 @@ pip install pyscreenshot
 
 ## 📸 Sample Output
 ## 🖥️ Capturing Full Screen
-![Application Screenshot]()
+![Application Screenshot](Taking-Screenshots-using-pyscreenshot-in-Python/screenshot1.png)
 
 ## ✂️ Capturing Part of the Screen
-![Application Screenshot]()
+![Application Screenshot](Taking-Screenshots-using-pyscreenshot-in-Python/screenshot2.png)
 
 ---
 
